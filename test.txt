@@ -1,0 +1,6 @@
+echo "Hello World"
+pwd
+sleep 5
+whoami
+sleep 5
+date
