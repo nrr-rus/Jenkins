@@ -1,6 +1,6 @@
 echo "Hello World"
 pwd
-sleep 5
+sleep 6
 whoami
-sleep 5
+sleep 6
 date
